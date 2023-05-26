@@ -1,0 +1,85 @@
+
+.depicter-revert.depicter-2 .depicter-layers-wrapper{
+	padding-left:15px;
+	padding-right:15px;
+}
+.depicter-revert .depicter-2-element-62{
+	background-color:#000000;
+	border-radius:5px 5px 5px 5px;
+}
+.depicter-2-element-62 .depicter-arrow-icon{
+	fill:#FFFFFF;
+}
+.depicter-revert .depicter-2-element-63{
+	background-color:#000000;
+	border-radius:5px 5px 5px 5px;
+}
+.depicter-2-element-63 .depicter-arrow-icon{
+	fill:#FFFFFF;
+}
+.depicter-revert .depicter-2-element-54{
+	font-size:40px;
+	color:#000000;
+	font-family:"Roboto Slab";
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-2-section-1 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-2-element-59{
+	font-size:25px;
+	color:#000000;
+	font-family:"Roboto Slab";
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-2-element-58{
+	font-size:40px;
+	color:#000000;
+	font-family:"Roboto Slab";
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-2-section-16 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-2-element-61{
+	font-size:40px;
+	color:#000000;
+	font-family:"Roboto Slab";
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-2-section-30 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+
+/***** Tablet *****/
+@media screen and (max-width: 1024px){
+
+.depicter-revert .depicter-2-section-1 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-2-section-16 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-2-section-30 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+
+}
+/***** Mobile *****/
+@media screen and (max-width: 767px){
+
+.depicter-revert .depicter-2-section-1 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-2-section-16 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-2-section-30 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+
+}
